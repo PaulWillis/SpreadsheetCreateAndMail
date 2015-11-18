@@ -1,0 +1,11 @@
+*.dll
+*.log
+.svn/
+bin/
+obj/
+lib/
+packages/
+*.suo
+*.pubxml
+*.pubxml.user
+App.config
